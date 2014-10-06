@@ -1,0 +1,22 @@
+{
+  "name": "gmap-utility-richmarker",
+  "version": "1.0.0",
+  "homepage": "https://github.com/Raccourci/gmap-utility-richmarker",
+  "authors": [
+    "Clément LAMOUREUX <clement@raccourci.fr>"
+  ],
+  "description": "RichMarker Bower component",
+  "main": "richmarker-compiled.js",
+  "keywords": [
+    "richmarker",
+    "raccourci"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
